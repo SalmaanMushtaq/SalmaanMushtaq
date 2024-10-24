@@ -11,13 +11,17 @@ I’m a dedicated **front-end developer** with a passion for turning ideas into 
 
 🌍 When I’m not coding, I’m passionate about continuous learning, from UI/UX design to emerging web development trends. I also love sharing knowledge with fellow developers and contributing to open-source projects.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SalmaanMushtaq/SalmaanMushtaq/main/rainbow-superthin.webp" alt="Salmaan Mushtaq - Front-End Developer" width="1000" />
+</p>
 
 ## 🚀 What I’m Currently Working On:
 - Enhancing my knowledge of **Web Performance Optimization** and **Accessibility Best Practices**.
 - Building engaging and scalable projects using **React** and **Angular** frameworks.
 - Diving deeper into **TypeScript** and improving my expertise in front-end architecture.
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SalmaanMushtaq/SalmaanMushtaq/main/rainbow-superthin.webp" alt="Salmaan Mushtaq - Front-End Developer" width="1000" />
+</p>
 
 Feel free to explore my repositories and get in touch!
