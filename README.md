@@ -1,7 +1,6 @@
 # <p align="center">
-  <img src="[https://github.com/salmaan-mushtaq/salmaan-mushtaq/assets/your-image.png](https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/refs/heads/main/assets/rainbow-superthin.webp)" alt="Salmaan Mushtaq - Front-End Developer" width="1000" />
+  <img src="https://github.com/salmaan-mushtaq/salmaan-mushtaq/rainbow-superthin.webp" alt="Salmaan Mushtaq - Front-End Developer" width="1000" />
 </p>
-
 ---
 
 ### 🔭 I’m currently working on:
