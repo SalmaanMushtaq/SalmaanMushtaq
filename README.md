@@ -19,7 +19,7 @@ I’m a dedicated **front-end developer** with a passion for turning ideas into 
 ## 📫 Get In Touch:
 Feel free to explore my repositories and reach out if you’d like to connect! You can contact me via email at:
 
-📧 **[khansalmaan00@gmail.com](mailto:khansalmaan00@gmail.com)**
+📧 **[khandaysalmaan00@gmail.com](mailto:khandaysalmaan00@gmail.com)**
 <p align="center">
   <img src="https://raw.githubusercontent.com/SalmaanMushtaq/SalmaanMushtaq/main/rainbow-superthin.webp" alt="Salmaan Mushtaq - Front-End Developer" width="1000" />
 </p>
